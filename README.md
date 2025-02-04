@@ -24,6 +24,7 @@ Backend technologies are used for handling data and responding to user requests.
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gin_Gonic-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gorilla-000000?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white"/>
@@ -38,6 +39,9 @@ Backend technologies are used for handling data and responding to user requests.
 
 - **Gin (Web Framework for Go)**  
   A web framework for Go designed to build fast and scalable APIs with ease.
+
+- **Gorilla (Web Framework for Go)**  
+  A web toolkit for Go that provides a set of robust, reusable components for building modern web applications.
 
 - **Python (Backend Scripting & Development)**  
   A versatile language, perfect for backend automation, data processing, and scripting.
