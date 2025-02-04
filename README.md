@@ -1,4 +1,4 @@
-# 🚀 Mening Loyiham
+# 🚀 Tokhirbek - Software Engineer & Security Enthusiast
 
 ## 🛠 Ishlatilgan Texnologiyalar
 
@@ -29,19 +29,15 @@
 
 ## 👨‍💻 Haqimda
 
-I am a passionate Software Engineer and Security Enthusiast with a strong interest in creating secure and scalable applications. I love tackling complex problems and always strive to improve my skills in backend development and cybersecurity. I enjoy exploring new technologies and staying updated with the latest trends in the tech world.
+I am a passionate Software Engineer and Security Enthusiast with a strong interest in creating secure and scalable applications. I specialize in backend development, exploring new technologies, and staying updated with the latest trends in the tech world. I'm also deeply involved in cybersecurity, ethical hacking, and reverse engineering, focusing on securing systems and applications.
 
 ## 📂 Loyihalar
 
-### 1. **Project Name**
-A brief description of the project. What was it about, what technologies were used, and how it demonstrates your skills.
+### 1. **Security Tool Development**
+Building tools to assist in penetration testing and vulnerability analysis. I integrate various security frameworks to automate and improve security processes.
 
-[GitHub Link](https://github.com/username/project) | [Live Demo](https://project.com)
-
-### 2. **Project Name**
-A brief description of the project.
-
-[GitHub Link](https://github.com/username/project) | [Live Demo](https://project.com)
+### 2. **Web Applications**
+Creating secure and scalable web applications using modern frameworks such as Django, Gin, and Vue.js.
 
 ## 🎓 Ta'lim
 
@@ -65,4 +61,3 @@ A brief description of the project.
 - 🐦 Twitter: [@username](https://twitter.com/username)
 - 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/username)
 - 🌐 Blog: [username.dev](https://username.dev)
-
