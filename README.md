@@ -142,6 +142,15 @@ Security texnologiyalari tizimlar va ilovalarni himoya qilish, xavfsizlikni ta'm
   <img src="https://img.shields.io/badge/Burp_Suite-F65D33?style=for-the-badge&logo=burp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Airmon%20NG-FDC800?style=for-the-badge&logo=airmon&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-2E5C3E?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hashcat-FF7F00?style=for-the-badge&logo=hashcat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fiddler-9B41A1?style=for-the-badge&logo=fiddler&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tcpdump-FF6F00?style=for-the-badge&logo=tcpdump&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=netcat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/John_the_Ripper-4E9B3B?style=for-the-badge&logo=john&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nessus-FF4500?style=for-the-badge&logo=nessus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Argus-36B7A1?style=for-the-badge&logo=argus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenVAS-46A7C5?style=for-the-badge&logo=openvas&logoColor=white"/>
 </p>
 
 - **Kali Linux (Penetration Testing)**  
@@ -164,6 +173,33 @@ Security texnologiyalari tizimlar va ilovalarni himoya qilish, xavfsizlikni ta'm
 
 - **Wireshark (Network Protocol Analyzer)**  
   A network protocol analyzer used for capturing and analyzing the data traveling over a network.
+
+- **OWASP ZAP (Vulnerability Scanning & Penetration Testing)**  
+  A penetration testing tool that helps find security vulnerabilities in web applications during development and testing.
+
+- **Hashcat (Password Cracking)**  
+  A password cracking tool used for recovering passwords from hash values using brute force and other techniques.
+
+- **Fiddler (Web Debugging Proxy)**  
+  A web debugging tool used for monitoring, modifying, and replaying HTTP(S) requests between the client and server.
+
+- **Tcpdump (Network Traffic Analysis)**  
+  A network packet analyzer that helps capture and display the data traveling through a network.
+
+- **Netcat (Networking Utility)**  
+  A simple utility used for reading and writing data across network connections, often referred to as a "Swiss Army knife" for network troubleshooting.
+
+- **John the Ripper (Password Cracking)**  
+  A password cracking tool designed to identify weak passwords by attempting a variety of techniques to guess the password.
+
+- **Nessus (Vulnerability Scanning)**  
+  A comprehensive vulnerability scanner used for identifying weaknesses and security flaws in a network or system.
+
+- **Argus (Network Security Monitoring)**  
+  A network security tool used to collect, analyze, and monitor network traffic in real-time.
+
+- **OpenVAS (Vulnerability Scanning)**  
+  An open-source vulnerability scanning and management platform used to detect vulnerabilities in various systems.
 
 ---
 
