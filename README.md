@@ -10,7 +10,7 @@ I'm always eager to learn new technologies, solve complex problems, and contribu
 
 Feel free to check out my work, connect with me, or reach out if you're interested in collaborating on innovative projects.
 
-
+<!--
 ## 🏆 Experience
 
 - **Software Engineer** at XYZ Corp  
@@ -24,7 +24,7 @@ Feel free to check out my work, connect with me, or reach out if you're interest
   Key Achievements: 
   - Conducted penetration testing and vulnerability assessments, reducing security risks by 40%.  
   - Developed custom automated security tools using Python and Bash scripts.
-
+-->
 ---
 
 ## 🛠 Technologies and Platforms
@@ -206,7 +206,7 @@ Security tools protect systems and applications from potential threats, ensuring
 
 ## 🎓 Education
 
-- **O'zbekiston Milliy Universiteti** - BSc in Technology Systems Quality Management
+<!-- - **O'zbekiston Milliy Universiteti** - BSc in Technology Systems Quality Management -->
 
 - **Online Courses**  
   - Kali Linux Penetration Testing  
