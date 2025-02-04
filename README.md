@@ -128,4 +128,27 @@ Security texnologiyalari tizimlar va ilovalarni himoya qilish, xavfsizlikni ta'm
 
 - **Metasploit (Penetration Testing Framework)**  
   <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white"/>  
-  A penetration testing framework for developing and executing exploit code against remote
+  A penetration testing framework for developing and executing exploit code against remote target machines.
+
+- **Wireshark (Network Protocol Analyzer)**  
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>  
+  A network protocol analyzer used to capture and inspect packets on a network.
+
+- **Burp Suite (Web Vulnerability Scanner)**  
+  <img src="https://img.shields.io/badge/Burp_Suite-F8A400?style=for-the-badge&logo=burpsuite&logoColor=white"/>  
+  A suite of tools used for testing web application security.
+
+- **Nmap (Network Scanning)**  
+  <img src="https://img.shields.io/badge/Nmap-00A300?style=for-the-badge&logo=nmap&logoColor=white"/>  
+  A network scanning tool used to discover hosts and services on a computer network.
+
+---
+
+## 🎓 Education
+- Bachelor’s degree in Information Technology from **Tashkent State Technical University**  
+- Security Analyst Certification from **Offensive Security**  
+
+---
+
+## 📬 Contact Me
+You can reach out to me via email at **tokhirbek@email.com** or find me on LinkedIn at [Tokhirbek's LinkedIn](https://linkedin.com/in/tokhirbek).
