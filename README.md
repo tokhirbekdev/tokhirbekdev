@@ -142,6 +142,18 @@ Security texnologiyalari tizimlar va ilovalarni himoya qilish, xavfsizlikni ta'm
   <img src="https://img.shields.io/badge/Nmap-00A300?style=for-the-badge&logo=nmap&logoColor=white"/>  
   A network scanning tool used to discover hosts and services on a computer network.
 
+- **John the Ripper (Password Cracking)**  
+  <img src="https://img.shields.io/badge/John_the_Ripper-DA291C?style=for-the-badge&logo=johntheripper&logoColor=white"/>  
+  A fast password cracker used to crack various password hashes.
+
+- **Aircrack-ng (Wi-Fi Network Security Testing)**  
+  <img src="https://img.shields.io/badge/Aircrack--ng-FF4F00?style=for-the-badge&logo=aircrack-ng&logoColor=white"/>  
+  A set of tools for testing the security of Wi-Fi networks.
+
+- **Nikto (Web Server Scanner)**  
+  <img src="https://img.shields.io/badge/Nikto-47A248?style=for-the-badge&logo=nikto&logoColor=white"/>  
+  A web server scanner used to find vulnerabilities in web servers.
+
 ---
 
 ## 🎓 Education
