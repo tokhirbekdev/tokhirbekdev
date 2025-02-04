@@ -1,11 +1,4 @@
-<h1 style="animation: slideIn 1s ease-out; transform: translateX(-100%);">Tokhirbek - Software Engineer & Security Enthusiast</h1>
-
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
-        document.querySelector('h1').style.animation = "slideIn 1s ease-out";
-        document.querySelector('h1').style.transform = "translateX(0)";
-    });
-</script>
+<h1 style="animation: slideIn 1s ease-out; transform: translateX(-100%); transition: transform 1s ease-out;">Tokhirbek - Software Engineer & Security Enthusiast</h1>
 
 
 
