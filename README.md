@@ -1,5 +1,14 @@
 <h1 style="animation: slideIn 1s ease-out; transform: translateX(-100%); transition: transform 1s ease-out;">Tokhirbek - Software Engineer & Security Enthusiast</h1>
 
+## About Me
+
+Hi, I'm Tokhirbek, a passionate Software Engineer and Security Enthusiast. I specialize in building scalable, secure, and high-performance applications with a focus on backend technologies and cybersecurity.
+
+With extensive experience in Go, Python, and web development frameworks, I have been involved in creating microservices architectures and enhancing system security through penetration testing and vulnerability assessments.
+
+I'm always eager to learn new technologies, solve complex problems, and contribute to the tech community. My goal is to continue growing as a developer while ensuring the security and scalability of the applications I build.
+
+Feel free to check out my work, connect with me, or reach out if you're interested in collaborating on innovative projects.
 
 
 ## 🏆 Experience
