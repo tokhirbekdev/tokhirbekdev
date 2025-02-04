@@ -1,26 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        @keyframes slideIn {
-            from {
-                transform: translateX(-100%);
-            }
-            to {
-                transform: translateX(0);
-            }
-        }
-        .animate-text {
-            animation: slideIn 1s ease-out;
-        }
-    </style>
-</head>
-<body>
-    <h1 class="animate-text">Tokhirbek - Software Engineer & Security Enthusiast</h1>
-</body>
-</html>
+<h1 style="animation: slideIn 1s ease-out; transform: translateX(-100%);">Tokhirbek - Software Engineer & Security Enthusiast</h1>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        document.querySelector('h1').style.animation = "slideIn 1s ease-out";
+        document.querySelector('h1').style.transform = "translateX(0)";
+    });
+</script>
+
 
 
 ## 🏆 Experience
