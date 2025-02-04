@@ -16,17 +16,35 @@
 
 ## 🛠 Texnologiyalar va Platformalar
 
-- **Backend**:  
-  - Go, Gin (Microservices Development)  
-  - Python, Django, DRF (REST API Development)  
-  - C, C++ (System Programming)  
-  - Node.js, Express.js (Real-time Applications)  
-  - GraphQL (Optimized Query Languages)
+### Backend:
 
-- **Frontend**:  
-  - JavaScript (ES6+), TypeScript (Client-side Development)  
-  - Vue.js, React.js (UI Components and Dynamic Interfaces)  
-  - CSS3, HTML5 (Responsive Web Design)
+- **Go** (Microservices Development)  
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+- **Gin** (Web Framework for Go)  
+  <img src="https://img.shields.io/badge/Gin_Gonic-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+- **Python, Django, DRF** (REST API Development)  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white"/>
+- **C, C++** (System Programming)  
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+- **Real-time Applications (Go)**  
+  <img src="https://img.shields.io/badge/WebSocket-2E86C1?style=for-the-badge&logo=websocket&logoColor=white"/>
+- **GraphQL** (Optimized Query Languages)  
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+
+### Frontend:
+
+- **JavaScript (ES6+)** (Client-side Development)  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+- **Vue.js, React.js** (UI Components and Dynamic Interfaces)  
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+- **CSS3, HTML5** (Responsive Web Design)  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
 
 - **Databases**:  
   - PostgreSQL, MySQL (Relational Databases)  
